@@ -12,7 +12,7 @@
         <RepositoryUrl>https://github.com/litenova/ChainRunner</RepositoryUrl>
         <PackageTags>chain-of-responsibilities</PackageTags>
         <Version>0.4.1</Version>
-        <PackageId>TCB.ChainRunner</PackageId>
+        <PackageId>TCB-ChainRunner</PackageId>
     </PropertyGroup>
 
     <ItemGroup>
